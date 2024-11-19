@@ -1,0 +1,6 @@
+valor = input('Digite aqui: ')
+print(F'Só tem letras minusculas? ', valor.islower())
+print('Só tem letras maiusculas? ', valor.isupper())
+print('É numérico? ', valor.isnumeric())
+print('Se numérico, é decimal?', valor.isdecimal())
+print('Qual o tipo? ', type(valor))
