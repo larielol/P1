@@ -1,1 +1,1 @@
-# P1
+Arquivos da disciplina **Laboratório de Programação 1**, incluindo: mini testes, provas, exercicios do site da disciplina e treinos por fora da disciplina para dominar a linguagem de programação Python, cujo foi o nosso primeiro contato com programaçãp. A disciplina ministrada pelo professor **Dalton Serey** no período 2021.2!
